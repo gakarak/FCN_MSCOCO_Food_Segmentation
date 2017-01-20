@@ -9,3 +9,9 @@ DL-Framework: [https://keras.io/]
 MS-COCO Python API: [https://github.com/pdollar/coco]
 
 Some results: [https://cloud.mail.ru/public/CPCy/rdzs4Zt3W]
+
+![COCO_val2014_000000000397](img/COCO_val2014_000000000397.jpg-mskfood-idx.png-prv-segm1.jpg)
+![COCO_val2014_000000000661](img/COCO_val2014_000000000661.jpg-mskfood-idx.png-prv-segm1.jpg)
+![COCO_val2014_000000001903](img/COCO_val2014_000000001903.jpg-mskfood-idx.png-prv-segm1.jpg)
+![COCO_val2014_000000003014](img/COCO_val2014_000000003014.jpg-mskfood-idx.png-prv-segm1.jpg)
+
